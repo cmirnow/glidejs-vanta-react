@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/glidejs-vanta-react/static/css/main.7f78aad1.css",
+    "main.css": "/glidejs-vanta-react/static/css/main.b4e9ae19.css",
     "main.js": "/glidejs-vanta-react/static/js/main.67e9c090.js",
     "static/js/787.8427289b.chunk.js": "/glidejs-vanta-react/static/js/787.8427289b.chunk.js",
     "index.html": "/glidejs-vanta-react/index.html",
-    "main.7f78aad1.css.map": "/glidejs-vanta-react/static/css/main.7f78aad1.css.map",
+    "main.b4e9ae19.css.map": "/glidejs-vanta-react/static/css/main.b4e9ae19.css.map",
     "main.67e9c090.js.map": "/glidejs-vanta-react/static/js/main.67e9c090.js.map",
     "787.8427289b.chunk.js.map": "/glidejs-vanta-react/static/js/787.8427289b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f78aad1.css",
+    "static/css/main.b4e9ae19.css",
     "static/js/main.67e9c090.js"
   ]
 }
