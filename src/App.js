@@ -2,7 +2,6 @@ import { useRef, useEffect } from "react";
 import Glide from "@glidejs/glide";
 import FogComponent from "./components/FogComponent";
 import "./App.css";
-import logo from "./logo.svg";
 import "./styles.scss";
 
 const sliderConfiguration = {
@@ -131,12 +130,6 @@ function App() {
             <button className="glide__bullet" data-glide-dir="=8"></button>
           </div>
         </div>
-        <img
-          src={logo}
-          className="App-logo"
-          style={{ position: "absolute", right: 0, bottom: "1em" }}
-          alt="logo"
-        />
       </>
     </FogComponent>
   );
