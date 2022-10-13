@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/glidejs-vanta-react/static/css/main.667916aa.css",
+    "main.js": "/glidejs-vanta-react/static/js/main.eec18b4f.js",
+    "static/js/787.8427289b.chunk.js": "/glidejs-vanta-react/static/js/787.8427289b.chunk.js",
+    "static/media/logo.svg": "/glidejs-vanta-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/glidejs-vanta-react/index.html",
+    "main.667916aa.css.map": "/glidejs-vanta-react/static/css/main.667916aa.css.map",
+    "main.eec18b4f.js.map": "/glidejs-vanta-react/static/js/main.eec18b4f.js.map",
+    "787.8427289b.chunk.js.map": "/glidejs-vanta-react/static/js/787.8427289b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.667916aa.css",
+    "static/js/main.eec18b4f.js"
+  ]
+}
