@@ -80,7 +80,7 @@ function App() {
                   style={{ backgroundColor: "#FF0000" }}
                 >
                   Ruby on Rails - Imagine, design, build web apps and bring your
-                  dreams to life with Rails 5 - 6 - 7.
+                  dreams to life with Rails 4 / 5 / 6 / 7.
                 </div>
               </li>
               <li className="glide__slide">
