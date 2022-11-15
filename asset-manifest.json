@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/glidejs-vanta-react/static/css/main.b4e9ae19.css",
-    "main.js": "/glidejs-vanta-react/static/js/main.67e9c090.js",
-    "static/js/787.8427289b.chunk.js": "/glidejs-vanta-react/static/js/787.8427289b.chunk.js",
-    "index.html": "/glidejs-vanta-react/index.html",
-    "main.b4e9ae19.css.map": "/glidejs-vanta-react/static/css/main.b4e9ae19.css.map",
-    "main.67e9c090.js.map": "/glidejs-vanta-react/static/js/main.67e9c090.js.map",
-    "787.8427289b.chunk.js.map": "/glidejs-vanta-react/static/js/787.8427289b.chunk.js.map"
+    "main.css": "/static/css/main.b4e9ae19.css",
+    "main.js": "/static/js/main.2cb5be9a.js",
+    "static/js/787.8427289b.chunk.js": "/static/js/787.8427289b.chunk.js",
+    "index.html": "/index.html",
+    "main.b4e9ae19.css.map": "/static/css/main.b4e9ae19.css.map",
+    "main.2cb5be9a.js.map": "/static/js/main.2cb5be9a.js.map",
+    "787.8427289b.chunk.js.map": "/static/js/787.8427289b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4e9ae19.css",
-    "static/js/main.67e9c090.js"
+    "static/js/main.2cb5be9a.js"
   ]
 }
